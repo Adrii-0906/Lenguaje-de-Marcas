@@ -1,0 +1,63 @@
+body {
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+div {
+    text-align: center;
+    position: relative;
+}
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+td {
+    border: 1px black solid;
+    width: 200px;
+    text-align: left;
+}
+
+.horas:nth-child(1) {
+    background-color: green;
+}
+
+#recreo:nth-child(2) {
+    background-color: yellow;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: green;
+}
+a:visited {
+    color: red;
+    text-decoration: none;
+}
+
+#viernes:hover {
+    font-size: 30px;
+}
+
+.dias:first-letter {
+    font-size: 30px;
+}
+
+input[required]{
+    width: 200px;
+    height: 30px;
+    border: 1px red solid;
+    padding-left: 5px;
+}
+
+span:nth-child(1) {
+    color: red;
+}
+#formulario {
+    position: absolute;
+    bottom: -75px;
+    left: 0;
+}

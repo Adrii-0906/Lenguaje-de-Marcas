@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+    <receta>
+        <nombre>Macarrones con atún y tomate</nombre>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>400 gramos de macarrones</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>800 gramos de tomate triturado</ingrediente>
+            <ingrediente>200 gramos de atún</ingrediente>
+            <ingrediente>Aceite de oliva virgen extra</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Queso rayado</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>1. Pelamos la cebolla y picamos finamente. Calentamos un poco de aceite de oliva en una cazuela y pochamos la cebolla picada a fuego suave durante aproximadamente 10 minutos o hasta que esté traslúcida. No dejéis que se dore porque puede amargar la salsa.</paso>
+            <paso>2. A continuación añadimos el tomate triturado, todo de golpe. Si usamos tomate de lata, no tenemos más que abrir la lata y punto, pero si usamos tomate natural necesitaremos lavar bien cada pieza, triturar y pasar por un chino o colador para retirar los restos de pieles y pepitas.</paso>
+            <paso>3. Agregamos también un poco de azúcar. Sí los tomates no son de temporada o son tomates de lata, tienden a ser demasiado ácidos. Por eso, con esto contrarrestamos sabores.</paso>
+            <paso>4. Sazonamos y cocemos a medio-bajo suave durante 15 o 20 minutos o hasta obtener el punto de espesor que más os guste. A mí me gusta la salsa de tomate espesa, así que la reduzco bastante. Al gusto.</paso>
+            <paso>5. Sí salpica mucho la salsa colocamos la tapa de la cacerola, pero sin cerrar y dejando una pequeña abertura. Esto permitirá que se vaya evaporando el líquido y que los salpicones no pongan todo perdido.</paso>
+            <paso>6. Mientras se hace la salsa de tomate ponemos a hervir abundante agua con sal en una cacerola. Usamos 1 litro y 10 gramos de sal por cada 100 gramos de pasta utilizados, según marcan los cánones italianos.</paso>
+            <paso>7. Añadimos los macarrones y dejamos cocer un minuto menos del tiempo que nos recomienda el  fabricante. En este el fabricante recomienda 8 minutos, así que los cocemos solo 7 minutos. Escurrimos los macarrones y los refrescamos bajo el grifo de agua fría para cortar la cocción.</paso>
+            <paso>8. Volvemos a la salsa para comprobar el punto de la misma y añadir el atún, bien escurrido, y cocer un par de minutos más. Probamos el punto de sal y rectificamos si fuera necesario.</paso>
+            <paso>9. Cuando la salsa esté lista añadimos los macarrones a la misma, mezclamos bien para que la pasta se empape del sabor de la salsa y damos un hervor corto de un minuto. Servimos caliente en la mesa y acompañamos cada plato con un poco de atún y queso rallado al gusto.</paso>
+        </pasos>
+    </receta>
+    <receta>
+        <nombre>Tortitas</nombre>
+        <tiempo>25 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>150 gramos de harina de trigo</ingrediente>
+            <ingrediente>2 huevos</ingrediente>
+            <ingrediente>25 gramos de azúcar</ingrediente>
+            <ingrediente>50 gramos de matequilla</ingrediente>
+            <ingrediente>250 ml de leche</ingrediente>
+            <ingrediente>Unas gotas de esencia de vainilla</ingrediente>
+            <ingrediente>12 gramos de levadura en polvo</ingrediente>
+            <ingrediente>Una pizca de sal fina</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>1. En un bol mezclamos los ingredientes secos, la harina, levadura, azúcar y sal. Reservamos.</paso>
+            <paso>2. Combinamos en otro bol los huevos batidos, la mantequilla derretida y la esencia de vainilla. Incorporamos los ingredientes secos y, con una varilla incorporamos a los líquidos.</paso>
+            <paso>3. Vertemos la leche y batimos, es muy importante que no batamos demasiado la mezcla. Se trata de integrarlos pero, no es necesario intentar eliminar todos los grumos. Si lo batimos en exceso los pancakes nos quedarán demasiado duros.</paso>
+            <paso>4. Calentamos una sartén (debe ser aquella que tengamos para que no se pegue las cosas, la de las tortillas o cosas a la plancha). </paso>
+            <paso>5. Cuando esté caliente añadimos un cucharón de la mezcla de las tortitas, comenzando a verterlo por el centro y dejando que sea la propia masa la que se redistribuya en la sartén. Es importante que regulemos la temperatura hacia arriba o hacia abajo durante todo el proceso.</paso>
+            <paso>6. Si la masa no se cuaja al añadirla a la sartén estará demasiado fría y si, por el contrario, la parte inferior se quema antes de que aparezcan burbujitas en la parte superior, estará demasiado caliente.</paso>
+            <paso>7. Cuando vemos que aparecen burbujas en la parte superior de la tortita es el momento de darle la vuelta con una espátula. Cocinamos el pancake por el otro lado durante 30 o 40 segundos y retiramos.</paso>
+            <paso>8. Podemos añadir a la masa una vez que la vertemos en la sartén algún tipo de frutas frescas, arándanos, frambuesas, serán perfectas como acompañamiento.</paso>
+            <paso>9. Servimos las tortitas unos encima de otros haciendo una torre, bañados con miel, una merienda de rechupete. Como alternativa podemos sustituir la miel por crema de cacao casera o aquella que más os guste, ¡buenísimas! Incluso pueden ir con un toque de fruta… arándanos, plátano, fresas, cerezas o frambuesas, por ejemplo.</paso>
+        </pasos>
+    </receta>
+</libro>

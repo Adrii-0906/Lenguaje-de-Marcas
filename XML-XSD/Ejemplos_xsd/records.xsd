@@ -1,0 +1,21 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="records">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="record" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <element name="name" type="xs:string"/>
+                            <element name="address" type="xs:string"/>
+                            <element name="currency" type="xs:string"/>
+                            <element name="country" type="xs:string"/>
+                            <element name="url" type="anyURI"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</schema>

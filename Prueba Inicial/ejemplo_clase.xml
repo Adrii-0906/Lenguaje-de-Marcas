@@ -1,0 +1,15 @@
+<!DOCTYPE steam>
+<steam>
+    <perfil>
+        <nombre>Adrian</nombre>
+        <edad>18 años</edad>
+        <dinero>20.00€</dinero>
+    </perfil>
+    <Biblioteca>
+        <juegos>
+            <Titulo>Minecraft</Titulo>
+            <Horas>Muchas</Horas>
+            <ultima_partida>15 min</ultima_partida>
+        </juegos>
+    </Biblioteca>
+</steam>

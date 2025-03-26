@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio3</title>
+    </head>
+    <body>
+    <style>
+        table {
+            border: 2px black solid;
+            border-collapse: collapse;
+        }
+        td, tr {
+            border: 2px black solid;
+        }
+        td {
+            width: 100px;
+            height: 100px;
+        }
+        tr {
+            height: 100px;
+        }
+    </style>
+        <table>
+            <tr align="center">
+                <td><b>Text</b></td>
+                <td><b>Text</b></td>
+                <td colspan="2"><b>Text</b></td>
+                <td colspan="2"><b>Text</b></td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top">Text</td>
+                <td style="vertical-align: bottom">Text</td>
+                <td colspan="2" style="vertical-align: bottom; text-align: right">Text</td>
+                <td align="center">Text</td>
+                <td align="center">Text</td>
+            </tr>
+            <tr>
+                <td align="center" rowspan="2">Text</td>
+                <td rowspan="2" style="vertical-align: top">Text</td>
+                <td style="vertical-align: top">Text</td>
+                <td style="vertical-align: top">Text</td>
+                <td align="center">Text</td>
+                <td align="right">Text</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Text</td>
+                <td rowspan="2">Text</td>
+                <td align="center">Text</td>
+                <td align="center">Text</td>
+            </tr>
+            <tr>
+                <td style="vertical-align: bottom; text-align: center">Text</td>
+                <td>Text</td>
+                <td style="vertical-align: top">Text</td>
+                <td  style="vertical-align: top">Text</td>
+            </tr>
+        </table>
+    </body>
+</html>

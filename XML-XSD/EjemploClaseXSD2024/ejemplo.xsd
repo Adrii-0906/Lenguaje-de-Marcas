@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="liga">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="arbitros">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="arbitro" type="xs:string" minOccurs="0" maxOccurs="3"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="equipos">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="equipo" minOccurs="1" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="entrenador" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                                        <xs:element name="presidente" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                                        <xs:element name="jugadores">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="jugador" type="xs:string" minOccurs="14" maxOccurs="24"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="nombre" type="xs:string" use="required"/>
+                                </xs:complexType>
+
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="nombre" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

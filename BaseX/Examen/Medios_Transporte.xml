@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<medios_transportes>
+    <medio_transporte>
+        <tren>
+            <cercania id="A1">
+                <vel_max>120</vel_max><!--Velocidad Maxima-->
+                <cont_CO2>16 gCO2/tkm</cont_CO2> <!--Contaminacion en CO2-->
+                <medio>Via</medio> <!--Medio de transporte-->
+                <cant_pasajeros>70</cant_pasajeros> <!--Cantidad maxima de pasajeros-->
+                <conductor nombre="Antonio" id="A1">
+                    <DNI>00000000A</DNI>
+                    <num_tlfn>666666666</num_tlfn>
+                </conductor>
+            </cercania>
+            <media_distacia id="A2">
+                <vel_max>150</vel_max><!--Velocidad Maxima-->
+                <cont_CO2>17 gCO2/tkm</cont_CO2> <!--Contaminacion en CO2-->
+                <medio>Via</medio> <!--Medio de transporte-->
+                <cant_pasajeros>90</cant_pasajeros> <!--Cantidad maxima de pasajeros-->
+                <conductor nombre="Antonio" id="A2">
+                    <DNI>00000000A</DNI>
+                    <num_tlfn>666666666</num_tlfn>
+                </conductor>
+            </media_distacia>
+            <ave id="A3">
+                <vel_max>300</vel_max><!--Velocidad Maxima-->
+                <cont_CO2>18,8 gCO2/tkm</cont_CO2> <!--Contaminacion en CO2-->
+                <medio>Via</medio> <!--Medio de transporte-->
+                <cant_pasajeros>150</cant_pasajeros> <!--Cantidad maxima de pasajeros-->
+                <conductor nombre="Antonio" id="A3">
+                    <DNI>00000000A</DNI>
+                    <num_tlfn>666666666</num_tlfn>
+                </conductor>
+            </ave>
+        </tren>
+        <turismo>
+            <coche id="B1">
+                <vel_max>240</vel_max><!--Velocidad Maxima-->
+                <cont_CO2>25,6 gCO2/tkm</cont_CO2> <!--Contaminacion en CO2-->
+                <medio>Carretera</medio> <!--Medio de transporte-->
+                <cant_pasajeros>5</cant_pasajeros> <!--Cantidad maxima de pasajeros-->
+                <conductor nombre="Alberto" id="B1">
+                    <DNI>11111111A</DNI>
+                    <num_tlfn>777777777</num_tlfn>
+                    <matricula>0000 GFD</matricula>
+                </conductor>
+            </coche>
+        </turismo>
+        <avion>
+            <avioneta id="C1">
+                <vel_max>300</vel_max><!--Velocidad Maxima-->
+                <cont_CO2>50,6 gCO2/tkm</cont_CO2> <!--Contaminacion en CO2-->
+                <medio>Aire</medio> <!--Medio de transporte-->
+                <cant_pasajeros>20</cant_pasajeros> <!--Cantidad maxima de pasajeros-->
+                <conductor nombre="Amador" id="C1">
+                    <DNI>22222222A</DNI>
+                    <num_tlfn>222222222</num_tlfn>
+                </conductor>
+            </avioneta>
+        </avion>
+    </medio_transporte>
+</medios_transportes>

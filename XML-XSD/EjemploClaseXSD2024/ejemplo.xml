@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<liga   nombre="laliga"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="ejemplo.xsd"
+>
+    <arbitros>
+        <arbitro>Melissa</arbitro>
+        <arbitro>Aaron</arbitro>
+        <arbitro>Salva</arbitro>
+    </arbitros>
+    <equipos>
+        <equipo nombre="Real Madrid">
+            <entrenador>Ancelotti</entrenador>
+            <presidente>Tito Floren</presidente>
+            <jugadores>
+                <jugador>Bellingham</jugador>
+                <jugador>Luka Modric</jugador>
+                <jugador>Vallejo</jugador>
+            </jugadores>
+        </equipo>
+        <equipo>
+
+        </equipo>
+    </equipos>
+</liga>

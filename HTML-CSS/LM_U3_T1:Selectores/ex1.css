@@ -1,0 +1,51 @@
+body {
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+table {
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px black solid;
+    width: 100px;
+    height: 50px;
+}
+tr {
+    height: 50px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+.primero {
+    background-color: red;
+    color: white;
+    font-size: 1rem;
+}
+#fila2 {
+    font-size: 40px;
+    background-color: gray;
+}
+
+
+td[colspan = "2"], td[colspan="3"] {
+    background-color: blue;
+}
+
+#tercero {
+    background-color: yellow;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#fila3 ul{
+    color: red;
+
+}

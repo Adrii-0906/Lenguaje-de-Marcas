@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cine>
+    <cartelera>
+        <peliculas>
+            <pelicula>
+                <titulo>The Amazing Spiderman</titulo>
+                <duracion>136 minutos</duracion>
+                <sesiones>
+                    <sesion>
+                        <sala>7</sala>
+                        <hora>17:30</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>8</sala>
+                        <hora>18:00</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>9</sala>
+                        <hora>16:30</hora>
+                    </sesion>
+                </sesiones>
+                <protagonistas>
+                    <protagonista>Andrew Garfield</protagonista>
+                    <protagonista>Emma Stone</protagonista>
+                </protagonistas>
+                <director>Marc Webb</director>
+                <resumen>The Amazing Spider-Man es la historia de Peter Parker (Garfield), un chico de instituto algo marginado que fue abandonado por sus padres cuando era niño, por lo que le criaron su Tío Ben (Sheen) y su Tía May (Field). Como muchos adolescentes, Peter quiere averiguar quién es y cómo llegó a ser la persona que es en la actualidad. Además, Peter encuentra su primer amor de instituto, Gwen Stacy (Stone), y juntos, tendrán que lidiar con el amor, el compromiso, y los secretos. Cuando Peter descubre un misterioso maletín que perteneció a su padre, emprende una búsqueda para llegar al fondo de la desaparición de sus padres, la cual lo llevará directamente a Oscorp y al laboratorio del Dr. Curt Connor (Ifans), el antiguo socio de su padre. Cuando Spider-Man choca con el alter-ego de Connor, El Lagarto, Peter tomará decisiones que afectarán el rumbo de su vida, utilizando sus poderes para forjar su destino y convertirse en un héroe.</resumen>
+            </pelicula>
+            <pelicula>
+                <titulo>TheAvengers: Endgame</titulo>
+                <duracion>181 minutos</duracion>
+                <sesiones>
+                    <sesion>
+                        <sala>1</sala>
+                        <hora>19:30</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>2</sala>
+                        <hora>20:30</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>3</sala>
+                        <hora>22:00</hora>
+                    </sesion>
+                </sesiones>
+                <protagonistas>
+                    <protagonista>Robert John Downey Jr</protagonista>
+                    <protagonista>Scarlett Johansson</protagonista>
+                </protagonistas>
+                <director>Anthony Russo</director>
+                <resumen>Después de los devastadores eventos ocurridos en Vengadores: Infinity War, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Tras la derrota, las cosas no pintan bien para los Vengadores. Mientras Iron Man (Robert Downey Jr.) vaga en soledad junto a Nebula (Karen Gillan) en una nave lejos de la Tierra, el grupo encabezado por Capitán América (Chris Evans), Viuda Negra (Scarlett Johansson), Hulk (Mark Ruffalo) y Thor (Chris Hemsworth) deberá tratar de revertir los efectos de la catástrofe provocada por Thanos. Los Vengadores deberán reunirse una vez más para deshacer sus acciones y restaurar el orden en el universo de una vez por todas. Esta vez, contarán también con aliados como Ojo de Halcón (Jeremy Renner) y Capitana Marvel (Brie Larson), además de Ant-Man (Paul Rudd), que presumiblemente podría haber estado atrapado en el Reino Cuántico. Juntos, se prepararán para la batalla final, sin importar cuáles sean las consecuencias.</resumen>
+            </pelicula>
+            <pelicula>
+                <titulo>Spiderman: Homecoming</titulo>
+                <duracion>133 minutos</duracion>
+                <sesiones>
+                    <sesion>
+                        <sala>4</sala>
+                        <hora>16:30</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>5</sala>
+                        <hora>19:30</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>6</sala>
+                        <hora>21:30</hora>
+                    </sesion>
+                </sesiones>
+                <protagonistas>
+                    <protagonista>Tom Holland</protagonista>
+                    <protagonista>Zendaya</protagonista>
+                </protagonistas>
+                <director>Jon Watts</director>
+                <resumen>Un joven Peter Parker/Spider-Man (Tom Holland) quien hizo su sensacional debut en Capitán América Civil War, comienza a experimentar su nueva identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa donde vive con su tía (Marisa Tomei) bajo la atenta mirada de su supervisor Tony Stark (Robert Downey Jr.) Peter intenta mantener una vida normal pero interrumpe en su rutina diaria el nuevo villano Vulture (Michael Keaton) y con él, lo más importante de la vida de Peter se verá amenazado.</resumen>
+            </pelicula>
+            <pelicula>
+                <titulo>Doctor Strange</titulo>
+                <duracion>115 minutos</duracion>
+                <sesiones>
+                    <sesion>
+                        <sala>4</sala>
+                        <hora>19:30</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>5</sala>
+                        <hora>16:00</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>6</sala>
+                        <hora>18:00</hora>
+                    </sesion>
+                </sesiones>
+                <protagonistas>
+                    <protagonista>Benedict Cumberbatch</protagonista>
+                    <protagonista>Benedict Wong</protagonista>
+                </protagonistas>
+                <director>Scott Derrickson</director>
+                <resumen>La vida del Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le deja muy malheridas sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar esperanza y una cura en un lugar impensable: una comunidad aislada en Nepal llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y prestigio o dejarlo todo, para defender el mundo como el mago más poderoso del planeta. Adaptación del cómic creado por Stan Lee y Steve Ditko. </resumen>
+            </pelicula>
+            <pelicula>
+                <titulo>Guardianes de la Galaxia</titulo>
+                <duracion>122 minutos</duracion>
+                <sesiones>
+                    <sesion>
+                        <sala>7</sala>
+                        <hora>21:00</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>8</sala>
+                        <hora>22:00</hora>
+                    </sesion>
+                    <sesion>
+                        <sala>9</sala>
+                        <hora>19:30</hora>
+                    </sesion>
+                </sesiones>
+                <protagonistas>
+                    <protagonista>Chris Pratt</protagonista>
+                    <protagonista>Karen Gillan</protagonista>
+                </protagonistas>
+                <director>James Gunn</director>
+                <resumen>El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia. </resumen>
+            </pelicula>
+        </peliculas>
+    </cartelera>
+</cine>

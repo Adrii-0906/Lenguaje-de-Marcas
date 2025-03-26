@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ordenador>
+    <nombre>Cositi</nombre>
+    <componentes>
+        <componente>
+            <nombre>Procesador</nombre>
+            <fabricante>AMD</fabricante>
+            <modelo>Ryzen 7 7800X3D</modelo>
+            <precio>432€</precio>
+            <caracteristicas>
+                <caracterisitica>8 núcleos</caracterisitica>
+                <caracterisitica>Zócalo AM5</caracterisitica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Placa base</nombre>
+            <fabricante>MSI</fabricante>
+            <modelo>pro B650-S WIFI</modelo>
+            <precio>156,99€</precio>
+            <caracteristicas>
+                <caracteristica>Admite memoria DDR5</caracteristica>
+                <caracteristica>PCB de 6 capas fabricado con cobre espesado de o.z</caracteristica>
+                <caracteristica>Compatible con AMD Ryzen seires 7000</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Memoria RAM</nombre>
+            <fabricante>ACER</fabricante>
+            <modelo>Acer Predator Vesta II RGB DDR5 6000MHz 32GB</modelo>
+            <precio>122,98€</precio>
+            <caracteristicas>>
+                <caracteristica>Velocidad de memoria del reloj: 6000 MHz</caracteristica>
+                <caracteristica>32 GB</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Torre</nombre>
+            <fabricante>Forgeon</fabricante>
+            <modelo>Arcanite ARGB Mesh Torre ATX Blanca</modelo>
+            <precio>130€</precio>
+            <caracteristicas>
+                <caracteristica>Medidas de 460 mm x 216 mm x 492 mm</caracteristica>
+                <caracteristica>7,5 Kg</caracteristica>
+                <caracteristica>Acero 0,8mm SPCC, cristal templado</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Refrigeración Liquida</nombre>
+            <fanricante>Tempest</fanricante>
+            <modelos>Tempest Liquid Cooler 360 ARGB</modelos>
+            <precio>107,90€</precio>
+            <caracteristicas>
+                <caracteristica>3 Ventiladores</caracteristica>
+                <caracteristica>Itel y AMD</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Fuente de alimentación</nombre>
+            <fabricante>Forgeon</fabricante>
+            <modelo>Forgeon Bolt PSU 850W 80+ Gold Full Modular</modelo>
+            <precio>135€</precio>
+            <caracteristicas>
+                <caracteristica>Cables modulares</caracteristica>
+                <caracteristica>Eficiencia 80+ gold certificada</caracteristica>
+                <caracteristica>Protecciones contra sobrevoltaje, cortocircuito, bajo voltaje, sobretension, sobrecorriente, sobrecalentamiento</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Tarjeta gráfica</nombre>
+            <fabricante>PNY</fabricante>
+            <modelo>PNY GeForce RTX 4070 SUPER OC DF 12GB GDDR6X DLSS3 </modelo>
+            <precio>670€</precio>
+            <caracteristicas>
+                <caracteristica>NVIDIA Ada Lovelace</caracteristica>
+                <caracteristica>128 GB de memoria G6X</caracteristica>
+                <caracteristica>IA DLSS 3</caracteristica>
+                <caracteristica>7168 núcleos CUDA</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente>
+            <nombre>Disco Duro</nombre>
+            <fabricante>Kioxia</fabricante>
+            <modelo>Kioxia Exceria Plus G3 2TB Disco SSD 5000MB/S NVMe PCIe 4.0 M.2 Gen4 </modelo>
+            <precio>106€</precio>
+            <caracteristicas>
+                <caracteristica>2 TB</caracteristica>
+                <caracteristica>PCI Express 4.0</caracteristica>
+                <caracteristica>Velocidad de lectura 5000MB/s</caracteristica>
+                <caracteristica>Velocidad de escritura 3900MB/s</caracteristica>
+            </caracteristicas>
+        </componente>
+    </componentes>
+</ordenador>

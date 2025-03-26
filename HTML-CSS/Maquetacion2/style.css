@@ -1,0 +1,127 @@
+body {
+    margin: 10px;
+    padding: 0;
+    width: 99vw;
+    height: 100vh;
+}
+
+#wrapped {
+    display: grid;
+    grid-template-rows: 30% 10% 50% 10%;
+    grid-template-areas: "header"
+                         "menu"
+                         "principal"
+                         "footer";
+}
+
+#header {
+    grid-template-areas: "header";
+    background-color: black;
+}
+
+#header h1 {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+#header p {
+    background-color: white;
+    display: flex;
+    justify-content: right;
+}
+
+#menu{
+    grid-template-areas: "menu";
+    background-color: black;
+    color: white;
+}
+
+#menu ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#menu li {
+    margin-left: 50px;
+}
+
+#principal {
+    grid-template-areas: "principal";
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+
+#principal-derecha h4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 400px;
+}
+
+#principal-derecha ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.principal1 {
+    background-color: gray;
+}
+
+#principal2 {
+    background-color: gray;
+    height: 200px;
+}
+
+#principal-central {
+    background-color: gray;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+#principal-central img {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+#principal-central p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#principal-izquierda h4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 600px;
+}
+
+#principal-izquierda form {
+    font-size: 20px;
+}
+
+#principal-izquierda input {
+    font-size: 30px;
+}
+
+#principal-izquierda button {
+    font-size: 20px;
+    width: 80px;
+    text-align: center;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}

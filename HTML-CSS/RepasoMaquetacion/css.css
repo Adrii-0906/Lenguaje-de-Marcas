@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 10px;
+    width: 99vw;
+    height: 100vh;
+}
+
+#wrapped {
+    display: grid;
+    grid-template-rows: 20% 10% 50% 20%;
+    grid-template-areas: "header"
+                         "menu"
+                         "contenido"
+                         "PiePagina";
+}
+
+#header{
+    background-color: black;
+    color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#title {
+    margin-left: 10px;
+}
+
+#header1 {
+    text-align: right;
+    padding-right: 5px;
+}
+
+#menu {
+    background-color: darkolivegreen;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    border-bottom: seagreen 5px solid;
+}
+
+.menu1 {
+    margin-left: 30px;
+}
+
+#div-principal {
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px ;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+#div1 {
+    width: 275px;
+    height: 300px;
+    background-color: darkgray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#title1 {
+    text-align: left;
+    padding-left: 24px;
+}
+
+#div-central1 {
+    background-color: darkgray;
+    border-bottom: darkgreen 3px solid;
+    margin-bottom: 1vw;
+    flex-grow: 1;
+    box-sizing: border-box;
+}
+
+#div-central img {
+    width: 80%;
+    height: 100%;
+    padding-bottom: 2vw;
+    padding-left: 5vw;
+}
+
+#div-central-abajo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkgray;
+    border-radius: 10px;
+    border: darkgreen 3px solid;
+    padding: 10px;
+}
+
+#arbol {
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    order: 1;
+    margin-top: 90px;
+}
+
+ul,li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+.verde {
+    color: darkgreen;
+    font-size: 25px;
+}
+
+.negrita {
+    color: black;
+}
+
+#div-derecha {
+    width: 275px;
+    height: 300px;
+    background-color: darkgray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#title2 {
+    text-align: left;
+    padding-left: 48px;
+}
+
+#pie-pagina {
+    align-items: center;
+    background-color: black;
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 10px ;
+}
+#parrafo {
+    color: white;
+    text-align: center;
+}
+#moodle {
+    display: block;
+    margin: 0 auto;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<shiporder orderid="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ej2.xsd">
+    <orderperson>Antonio Recio</orderperson>
+    <shipto>
+        <name>Belén Esteban</name>
+        <address>Av. Santa Ana, 45</address>
+        <city>Córdoba</city>
+        <country>España</country>
+    </shipto>
+    <item>
+        <title>Firgura Naruto Modo Senin</title>
+        <note>Edicion Especial</note>
+        <quantity>1</quantity>
+        <price>250.50</price>
+    </item>
+    <item>
+        <title>Lucky65 V1</title>
+        <quantity>1</quantity>
+        <price>63.99</price>
+    </item>
+</shiporder>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empresa nombre='CasaPepe'>
+    <edificios>
+        <edificio>
+            <direccion>Pl. Mayor de Andalucía, 1, 14700 Palma del Río, Córdoba</direccion>
+            <plantas>
+                <planta nombre='Base de datos'>
+                    <empleados>
+                        <empleado>
+                            <nombre>Adrian Raña Escote</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>32</edad>
+                            <dni>12345678A</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Jonathan Parrilla</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>35</edad>
+                            <dni>64717699T</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Raimundo de La Fuente</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>39</edad>
+                            <dni>34655728H</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Oliver Lema</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>38</edad>
+                            <dni>52060744Z</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Xavier Rial</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>37</edad>
+                            <dni>03037939F</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                    </empleados>
+                </planta>
+                <planta nombre='Programación'>
+                    <empleados>
+                        <empleado>
+                            <nombre>Salvador Lopez Trigueros</nombre>
+                            <puesto>Economista</puesto>
+                            <edad>45</edad>
+                            <dni>16920875M</dni>
+                            <telefono>253</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Marino Lobato</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>32</edad>
+                            <dni>59386153S</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Lucas Salcedo</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>34</edad>
+                            <dni>31332451B</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Mariano Samper</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>30</edad>
+                            <dni>64294462D</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Josu Melian</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>31</edad>
+                            <dni>62357167G</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                    </empleados>
+                </planta>
+                <planta nombre='Marketing'>
+                    <empleados>
+                        <empleado>
+                            <nombre>Javi Carrillo Ruiz</nombre>
+                            <puesto>Auditor finaciero</puesto>
+                            <edad>26</edad>
+                            <dni>74639373A</dni>
+                            <telefono>726</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Josu Melian</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>41</edad>
+                            <dni>29444689C</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Maria Sagrario Lara</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>47</edad>
+                            <dni>39097545Y</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Eva Maria Quesada</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>36</edad>
+                            <dni>63599957N</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Mia Rio</nombre>
+                            <puesto>Ejecutivo de cuentas</puesto>
+                            <edad>38</edad>
+                            <dni>71993271M</dni>
+                            <telefono>657</telefono>
+                        </empleado>
+                    </empleados>
+                </planta>
+            </plantas>
+        </edificio>
+        <edificio>
+            <direccion>Av. Santa Ana, 45, 14700 Palma del Río, Córdoba</direccion>
+            <planta nombre='Diseño Web'>
+                <empleados>
+                    <empleado>
+                        <nombre>Jose Manuel García García</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>46</edad>
+                        <dni>19515191J</dni>
+                        <telefono>666</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Celia Nevado</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>33</edad>
+                        <dni>05247131A</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Carlota Rivera</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>30</edad>
+                        <dni>36292920R</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Antonio Jesus Riera</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>29</edad>
+                        <dni>75966397L</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Adrian Raña Escote</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>36</edad>
+                        <dni>60962255L</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                </empleados>
+            </planta>
+            <planta nombre='Creatividad'>
+                <empleados>
+                    <empleado>
+                        <nombre>Marco Antonio Echeverria</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>48</edad>
+                        <dni>57820925Y</dni>
+                        <telefono>666</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Bilal Padilla</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>26</edad>
+                        <dni>09840386C</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Ahmed Peris</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>27</edad>
+                        <dni>09374412A</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Demetrio Salguero</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>25</edad>
+                        <dni>51447507A</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Vasile Jiménez</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>27</edad>
+                        <dni>61088245S</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                </empleados>
+            </planta>
+            <planta nombre='Desarrollo'>
+                <empleados>
+                    <empleado>
+                        <nombre>Herminio Vazquez</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>32</edad>
+                        <dni>27485494B</dni>
+                        <telefono>666</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Josep Nevado</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>36</edad>
+                        <dni>98620030D</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Ramon Castaño</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>38</edad>
+                        <dni>90896219N</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Edgar Conesa</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>39</edad>
+                        <dni>63191493M</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Juan Fernando Lucena</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>33</edad>
+                        <dni>40038877V</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                </empleados>
+            </planta>
+        </edificio>
+        <edificio>
+            <direccion>C. Ancha, 25, 14700 Palma del Río, Córdoba</direccion>
+            <planta nombre='Visión'>
+                <empleados>
+                    <empleado>
+                        <nombre>Eulogio Talavera</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>40</edad>
+                        <dni>16292009M</dni>
+                        <telefono>666</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Jose Joaquin Santos</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>42</edad>
+                        <dni>35731771Y</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Eduard Roca</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>37</edad>
+                        <dni>39759012Q</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Marcelino Soler</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>37</edad>
+                        <dni>00081528Q</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Juan Quiroga</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>40</edad>
+                        <dni>60629707M</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                </empleados>
+            </planta>
+            <planta nombre='Horizonte'>
+                <empleados>
+                    <empleado>
+                        <nombre>Pere Carreras</nombre>
+                        <puesto></puesto>
+                        <edad>35</edad>
+                        <dni>33415953N</dni>
+                        <telefono>666</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Joseba Morilla</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>38</edad>
+                        <dni>86700578P</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Juan Jesus Barrera</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>39</edad>
+                        <dni>73390197A</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Octavio Brito</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>40</edad>
+                        <dni>34586958H</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Agustin Molina</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>42</edad>
+                        <dni>94695427B</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                </empleados>
+            </planta>
+            <planta nombre='Estrategia'>
+                <empleados>
+                    <empleado>
+                        <nombre>Juan David Chaves</nombre>
+                        <puesto></puesto>
+                        <edad>41</edad>
+                        <dni>24232592E</dni>
+                        <telefono>666</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Juan Jose Luis</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>45</edad>
+                        <dni>32623731W</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Alex Alcalde</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>32</edad>
+                        <dni>32627169J</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Valeriano Chavez</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>38</edad>
+                        <dni>78805556N</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Benito Fraga</nombre>
+                        <puesto>Ejecutivo de cuentas</puesto>
+                        <edad>37</edad>
+                        <dni>78805556N</dni>
+                        <telefono>657</telefono>
+                    </empleado>
+                </empleados>
+            </planta>
+        </edificio>
+    </edificios>
+</empresa>

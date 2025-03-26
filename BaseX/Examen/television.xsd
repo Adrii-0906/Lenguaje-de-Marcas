@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="canales">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="canal" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="programacion">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="programas" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="programa" maxOccurs="unbounded">
+                                                        <xs:complexType>
+                                                            <xs:sequence>
+                                                                <xs:element name="duracion" type="xs:integer"/>
+                                                                <xs:element name="titulo" type="xs:string"/>
+                                                                <xs:element name="descripcion" type="xs:string"/>
+                                                                <xs:element name="clasificacion" type="xs:integer"/>
+                                                                <xs:element name="capitulo" type="xs:string"/>
+                                                            </xs:sequence>
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="dia" type="xs:string"/>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="anuncios" maxOccurs="3" minOccurs="1">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="anuncio">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="marca" type="xs:string"/>
+                                                    <xs:element name="duracion" type="xs:integer"/>
+                                                    <xs:element name="horario" type="xs:time"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="nombre" type="xs:string"/>
+                        <xs:attribute name="numero" type="integer"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</schema>

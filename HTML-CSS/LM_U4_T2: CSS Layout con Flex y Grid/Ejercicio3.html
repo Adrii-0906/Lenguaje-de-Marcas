@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="Ejercicio3.css">
+        <title>Guia de viajes</title>
+    </head>
+    <body>
+        <div id="wrapped">
+            <div id="parteArriba">
+                <div><img src="src/logo.png" alt="" id="imagen-cabecera"></div>
+                <div>
+                    <div id="title">
+                        <b>[Guia] 10 lugares para um<br> final de semana de Aventura!</b>
+                    </div>
+                    <div id="parrafo">
+                        <p>Conheca dicas de lugares para quem busca contato com a naturaleza.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="parteAbajo">
+                <div id="parteAbajo-izquierda">
+                    <img src="src/img2.jpeg" alt="" id="imagen-contenido"><br><br>
+                    <b id="text-content">Todas as regioes do Brasil</b><br>
+                    <p id="parrafo-content">Selecionamos dois lugres para cada regiao do Brasil para<br>
+                                            voce aproveitar uma aventura de final de semana em contato<br>
+                                            com a natureza</p>
+                </div>
+                <div id="parteAbajo-derecha">
+                    <div id="cabecera-form">
+                        <b id="title2">Faca o download gratis aqui!</b><br>
+                        <p id="parrafo2">Basta preencher o formulario abaixo</p>
+                    </div>
+                    <div id="contenido-form">
+                        <form action=""><br>
+                            <label for="name" class="label1">Nome*</label><br>
+                            <input type="text" name="name" id="name" required class="input1"><br><br>
+                            <label for="email" class="label1">Email*</label><br>
+                            <input type="email" name="email" id="email" required class="input1"><br><br>
+                            <label for="estado" class="label1">Estado*</label><br>
+                            <select name="estado" id="estado" required class="input1">
+                                <option value="selecione">Selecione</option>
+                                <option value="option1">Option1</option>
+                                <option value="option2">Option2</option>
+                                <option value="option3">Option3</option>
+                                <option value="option4">Option4</option>
+                                <option value="option5">Option5</option>
+                                <option value="option6">Option6</option>
+                                <option value="option7">Option7</option>
+                                <option value="option8">Option8</option>
+                                <option value="option9">Option9</option>
+                                <option value="option10">Option10</option>
+                            </select><br>
+                            <label for="check" class="label1">Voce practica que tipo de aventura?*</label><br><br>
+                            <input type="checkbox" name="check" id="check" required>
+                            <label for="check">Trekking</label><br><br>
+                            <input type="submit" value="Enviar Formulario" id="enviar">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+    <marcas>
+        <marca>
+            <nombre>Ferrari</nombre>
+            <pais>Italia</pais>
+            <coches>
+                <coche>
+                    <matricula>4356 NHG</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>SF90 Stradale</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>3990</cc>
+                </coche>
+                <coche>
+                    <matricula>5634 NFT</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>SF90 Spider</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>3990</cc>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Lamborghini</nombre>
+            <pais>Italia</pais>
+            <coches>
+                <coche>
+                    <matricula>7129 NDL</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>Sián Roadster</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>6498</cc>
+                </coche>
+                <coche>
+                    <matricula>6679 NGH</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>Huracán Sterrato</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>5204</cc>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Bugatti</nombre>
+            <pais>Francia</pais>
+            <coches>
+                <coche>
+                    <matricula>1234 MJS</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>Chiron</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>5643</cc>
+                </coche>
+                <coche>
+                    <matricula>7654 MRE</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>Tourbillon</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>6306</cc>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Aston Martin</nombre>
+            <pais>Reino Unido</pais>
+            <coches>
+                <coche>
+                    <matricula>9573 MRF</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>Valkyrie</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>7654</cc>
+                </coche>
+                <coche>
+                    <matricula>7385 MDY</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>Valiant</modelo>
+                    <numero_plazas>2</numero_plazas>
+                    <cc>7456</cc>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Audi</nombre>
+            <pais>Alemania</pais>
+            <coches>
+                <coche>
+                    <matricula>7843 MAH</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>RS 3 Sedan</modelo>
+                    <numero_plazas>5</numero_plazas>
+                    <cc>4657</cc>
+                </coche>
+                <coche>
+                    <matricula>9344 MKS</matricula>
+                    <año_matriculacion>2024</año_matriculacion>
+                    <modelo>RS 6 Avant GT</modelo>
+                    <numero_plazas>5</numero_plazas>
+                    <cc>4356</cc>
+                </coche>
+            </coches>
+        </marca>
+    </marcas>
+</catalogo>

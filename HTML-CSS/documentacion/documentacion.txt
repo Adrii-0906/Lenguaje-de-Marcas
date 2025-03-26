@@ -1,0 +1,153 @@
+content = """
+
+Explicación de Selectores, Pseudoselectores, Grid y Flexbox en CSS
+
+==================================================================
+
+
+
+1. SELECTORES EN CSS
+
+--------------------
+
+Los selectores en CSS se utilizan para "seleccionar" los elementos HTML que queremos estilizar. 
+
+A continuación, se describen los tipos más comunes:
+
+
+
+a) Selectores Básicos:
+
+   - `*`: Selecciona todos los elementos.
+
+   - `elemento`: Selecciona todos los elementos de ese tipo. Ejemplo: `div` selecciona todos los <div>.
+
+   - `#id`: Selecciona el elemento con un ID específico. Ejemplo: `#main` selecciona el elemento con ID "main".
+
+   - `.clase`: Selecciona todos los elementos con esa clase. Ejemplo: `.boton` selecciona elementos con la clase "boton".
+
+
+
+b) Selectores Combinados:
+
+   - `elemento1 elemento2`: Selecciona los `elemento2` que están dentro de `elemento1`. Ejemplo: `div p` selecciona todos los <p> dentro de un <div>.
+
+   - `elemento1 > elemento2`: Selecciona solo los `elemento2` hijos directos de `elemento1`.
+
+   - `elemento1 + elemento2`: Selecciona el `elemento2` que está inmediatamente después de `elemento1`.
+
+
+
+c) Selectores de Atributo:
+
+   - `[atributo]`: Selecciona elementos que tienen un atributo específico. Ejemplo: `[src]` selecciona elementos con un atributo "src".
+
+   - `[atributo=valor]`: Selecciona elementos con un atributo igual al valor dado.
+
+
+
+d) Selectores de Grupo:
+
+   - `selector1, selector2`: Aplica estilos a varios selectores. Ejemplo: `h1, h2` selecciona todos los <h1> y <h2>.
+
+
+
+2. PSEUDOELEMENTOS Y PSEUDOCLASES
+
+---------------------------------
+
+a) Pseudoclases:
+
+   Una pseudoclase se utiliza para definir un estado especial de un elemento.
+
+   - `:hover`: Aplica estilos cuando el mouse pasa sobre el elemento.
+
+   - `:focus`: Aplica estilos cuando un elemento tiene el foco.
+
+   - `:nth-child(n)`: Selecciona el enésimo hijo de su padre. Ejemplo: `li:nth-child(2)`.
+
+   - `:first-child` y `:last-child`: Selecciona el primer o último hijo de un padre.
+
+   - `:not(selector)`: Selecciona todos los elementos que no coinciden con el selector dado.
+
+
+
+b) Pseudoelementos:
+
+   Los pseudoelementos permiten aplicar estilos a partes específicas de un elemento.
+
+   - `::before`: Inserta contenido antes de un elemento.
+
+   - `::after`: Inserta contenido después de un elemento.
+
+   - `::first-line`: Aplica estilos a la primera línea de un bloque de texto.
+
+
+
+3. GRID EN CSS
+
+--------------
+
+Grid es un sistema de diseño basado en filas y columnas. Aquí están los conceptos clave:
+
+
+
+a) Contenedor de Grid (`display: grid;`):
+
+   - `grid-template-rows`: Define las filas. Ejemplo: `grid-template-rows: 100px auto;`.
+
+   - `grid-template-columns`: Define las columnas. Ejemplo: `grid-template-columns: 1fr 2fr;`.
+
+   - `grid-gap`: Define el espacio entre filas y columnas.
+
+
+
+b) Elementos Hijos en Grid:
+
+   - `grid-column`: Define la posición en columnas. Ejemplo: `grid-column: 1 / 3;`.
+
+   - `grid-row`: Define la posición en filas. Ejemplo: `grid-row: 2 / 4;`.
+
+   - `grid-area`: Define un área específica. Ejemplo: `grid-area: header;`.
+
+
+
+4. FLEXBOX EN CSS
+
+-----------------
+
+Flexbox es un sistema de diseño unidimensional (horizontal o vertical).
+
+
+
+a) Contenedor Flex (`display: flex;`):
+
+   - `flex-direction`: Define la dirección del eje principal. Ejemplo: `row` o `column`.
+
+   - `justify-content`: Alinea elementos en el eje principal. Ejemplo: `flex-start`, `center`, `space-between`.
+
+   - `align-items`: Alinea elementos en el eje transversal. Ejemplo: `stretch`, `center`.
+
+
+
+b) Elementos Hijos en Flexbox:
+
+   - `flex-grow`: Define cómo un elemento puede crecer para ocupar espacio.
+
+   - `flex-shrink`: Define cómo un elemento puede encogerse si falta espacio.
+
+   - `flex-basis`: Define el tamaño inicial de un elemento antes de aplicar espacio.
+
+   - `order`: Cambia el orden visual de los elementos.
+
+
+
+Conclusión:
+
+-----------
+
+Grid es ideal para diseños en dos dimensiones (filas y columnas), mientras que Flexbox es excelente para diseños lineales en una sola dirección.
+
+Selectores y pseudoselectores permiten una personalización precisa de estilos.
+
+"""

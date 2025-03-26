@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<libro>
+    <titulo>La vida de Pepe</titulo>
+    <editorial>SonGoku</editorial>
+    <autor>Amador Rivas</autor>
+    <numero_paginas>221</numero_paginas>
+    <capitulos>
+        <capitulo>
+            <titulo>La primera aparición de Pepe</titulo>
+            <pagina_inicio>1</pagina_inicio>
+            <pagina_finalizacion>30</pagina_finalizacion>
+        </capitulo>
+        <capitulo>
+            <titulo>El primer amor de Pepe</titulo>
+            <pagina_inicio>31</pagina_inicio>
+            <pagina_finalizacion>50</pagina_finalizacion>
+        </capitulo>
+        <capitulo>
+            <titulo>La Boda de Pepe</titulo>
+            <pagina_inicio>51</pagina_inicio>
+            <pagina_finalizacion>75</pagina_finalizacion>
+        </capitulo>
+        <capitulo>
+            <titulo>Luna de miel</titulo>
+            <pagina_inicio>76</pagina_inicio>
+            <pagina_finalizacion>100</pagina_finalizacion>
+        </capitulo>
+        <capitulo>
+            <titulo>Su vida de casado</titulo>
+            <pagina_inicio>100</pagina_inicio>
+            <pagina_finalizacion>199</pagina_finalizacion>
+        </capitulo>
+        <capitulo>
+            <titulo>La vida despues de su muerte</titulo>
+            <pagina_inicio>200</pagina_inicio>
+            <pagina_finalizacion>221</pagina_finalizacion>
+        </capitulo>
+    </capitulos>
+</libro>

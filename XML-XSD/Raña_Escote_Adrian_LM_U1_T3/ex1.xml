@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<torneo nombre="APT Palma del Río">
+    <partidos>
+        <partido>
+            <pista>1</pista>
+            <jugadores>
+                <jugador>Rafael Nadal</jugador>
+                <jugador>Novak Djokovic</jugador>
+            </jugadores>
+            <duracion>04:32</duracion>
+            <resultado>
+                <gandador>Rafael Nadal</gandador>
+                <sets>
+                    <set>7-5</set>
+                    <set>4-6</set>
+                    <set>6-3</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>3</pista>
+            <jugadores>
+                <jugador>Carlos Alcaraz</jugador>
+                <jugador>Jannik Sinner</jugador>
+            </jugadores>
+            <duracion>02:30</duracion>
+            <resultado>
+                <gandador>Carlos Alcaraz</gandador>
+                <sets>
+                    <set>6-3</set>
+                    <set>5-7</set>
+                    <set>6-1</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>2</pista>
+            <jugadores>
+                <jugador>Daniil Medvédev</jugador>
+                <jugador>Andréi Rubliov</jugador>
+            </jugadores>
+            <duracion>03:34</duracion>
+            <resultado>
+                <gandador>Daniil Medvédev</gandador>
+                <sets>
+                    <set>6-4</set>
+                    <set>6³-7⁷</set>
+                    <set>6-3</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>5</pista>
+            <jugadores>
+                <jugador>Roberto Bautista</jugador>
+                <jugador>Stéfanos Tsitsipás</jugador>
+            </jugadores>
+            <duracion>04:45</duracion>
+            <resultado>
+                <gandador>Stéfanos Tsitsipás</gandador>
+                <sets>
+                    <set>5-7</set>
+                    <set>7-5</set>
+                    <set>6⁵-7⁷</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>4</pista>
+            <jugadores>
+                <jugador>Fabio Fognini</jugador>
+                <jugador>Alejandro Davidovich Fokina</jugador>
+            </jugadores>
+            <duracion>04:34</duracion>
+            <resultado>
+                <gandador>Fabio Fognini</gandador>
+                <sets>
+                    <set>7-5</set>
+                    <set>6-4</set>
+                    <set>7⁹-6⁷</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>1</pista>
+            <jugadores>
+                <jugador>Tommy Paul</jugador>
+                <jugador>Gaël Monfils</jugador>
+            </jugadores>
+            <duracion>03:43</duracion>
+            <resultado>
+                <gandador>Tommy Paul</gandador>
+                <sets>
+                    <set>4-6</set>
+                    <set>7-5</set>
+                    <set>6-4</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>3</pista>
+            <jugadores>
+                <jugador>Frits</jugador>
+                <jugador>Rune</jugador>
+            </jugadores>
+            <duracion>03:53</duracion>
+            <resultado>
+                <gandador>Rune</gandador>
+                <sets>
+                    <set>6-4</set>
+                    <set>4-6</set>
+                    <set>5-7</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista></pista>
+            <jugadores>
+                <jugador>Goffin</jugador>
+                <jugador>Zverev</jugador>
+            </jugadores>
+            <duracion>02:34</duracion>
+            <resultado>
+                <gandador>Zverev</gandador>
+                <sets>
+                    <set>4-6</set>
+                    <set>6-1</set>
+                    <set>2-6</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>2</pista>
+            <jugadores>
+                <jugador>Dimitrov</jugador>
+                <jugador>Mensik</jugador>
+            </jugadores>
+            <duracion>03:47</duracion>
+            <resultado>
+                <gandador>Mensik</gandador>
+                <sets>
+                    <set>3-6</set>
+                    <set>6-4</set>
+                    <set>2-6</set>
+                </sets>
+            </resultado>
+        </partido>
+        <partido>
+            <pista>1</pista>
+            <jugadores>
+                <jugador>Roger</jugador>
+                <jugador>Behar</jugador>
+            </jugadores>
+            <duracion>03:27</duracion>
+            <resultado>
+                <gandador>Roger</gandador>
+                <sets>
+                    <set>6-2</set>
+                    <set>4-6</set>
+                    <set>5-7</set>
+                </sets>
+            </resultado>
+        </partido>
+    </partidos>
+</torneo>

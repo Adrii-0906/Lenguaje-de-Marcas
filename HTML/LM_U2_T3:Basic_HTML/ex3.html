@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario</title>
+</head>
+<body>
+<style>
+    div {
+        width: 550px;
+    }
+</style>
+    <h1>Formulario de reserva de salas</h1>
+    <div>
+        <form method="post">
+            <div style="background-color: #b5b5b5; border-top: 2px solid black;">
+                <label for="nombre">Tu nombre:<span style="color: red">*</span></label>
+                <input type="text" id="nombre" name="nombre" required style="margin-left: 250px"><br>
+            </div>
+            <div style="border-top: 2px solid black;">
+                <label for="email">Tu correo electrónico:<span style="color: red">*</span></label>
+                <input type="email" id="email" name="email" required style="margin-left: 171px"><br>
+            </div>
+
+            <div style="background-color: #b5b5b5; border-top: 2px solid black;">
+                <label for="departamento">Departamento:<span style="color: red">*</span></label>
+                <select name="ventas" id="departamento" required style="margin-left: 223px">
+                    <option name="Ventas">Ventas</option>
+                    <option name="Venta1">Venta 1</option>
+                    <option name="Venta2">Venta 2</option>
+                    <option name="Venta 3">Venta 3</option>
+                </select><br>
+            </div>
+
+            <div style="border-top: 2px solid black;">
+                <input type="radio" id="TipoA" name="opcion" required style="margin-left: 350px">
+                <label for="TipoA">Tipo A</label><br>
+                <label>Tipo de sala que desea reservar:<span style="color: red">*</span></label>
+                <input type="radio" id="TipoB" name="opcion" required style="margin-left: 93px">
+                <label for="TipoB">Tipo B</label><br>
+                <input type="radio" id="TipoC" name="opcion" required style="margin-left: 350px">
+                <label for="TipoC">Tipo C</label><br>
+            </div>
+            <div style="background-color: #b5b5b5; border-top: 2px solid black;">
+                <input type="checkbox" id="Caballete" name="Caballete" style="margin-left: 350px">
+                <label for="Caballete">Caballete y bolígrafos</label><br>
+                <label>Requisitos extra:</label>
+                <input type="checkbox" id="Television" name="Television" style="margin-left: 219px">
+                <label for="Television">Televisión</label><br>
+                <input type="checkbox" id="bebida" name="bebida" style="margin-left: 350px">
+                <label for="bebida">Café, té, agua</label><br>
+            </div>
+            <div style="border-top: 2px solid black;">
+                <label for="fecha">Fecha de reserva:<span style="color: red">*</span></label>
+                <input type="date" id="fecha" name="fecha" required class="a" style="margin-left: 204px"><br>
+            </div>
+            <div style="background-color: #b5b5b5; border-top: 2px solid black; border-bottom: 2px solid black">
+                <label for="hora">Hora de reserva:<span style="color: red">*</span></label>
+                <input type="time" id="hora" name="hora" required style="margin-left: 210px">
+            </div>
+            <div>
+                <input type="submit">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

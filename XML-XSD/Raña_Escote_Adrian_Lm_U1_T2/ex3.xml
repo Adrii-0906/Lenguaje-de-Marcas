@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<clase>
+    <horario>
+        <dia nombre="Lunes">
+            <sesiones>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>08:30</hora>
+                    <asignatura>Base de Datos</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>09:30</hora>
+                    <asignatura>Base de Datos</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>10:30</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>12:00</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>13:00</hora>
+                    <asignatura>Sistemas Informáticos</asignatura>
+                    <profesor>Jose Leon</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>14:00</hora>
+                    <asignatura>Sistemas Informáticos</asignatura>
+                    <profesor>Jose Leon</profesor>
+                </sesion>
+            </sesiones>
+        </dia>
+        <dia nombre="Martes">
+            <sesiones>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>08:30</hora>
+                    <asignatura>Base de Datos</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>09:30</hora>
+                    <asignatura>Base de Datos</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>10:30</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>12:00</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>13:00</hora>
+                    <asignatura>Sistemas Informáticos</asignatura>
+                    <profesor>Jose Leon</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>14:00</hora>
+                    <asignatura>Sistemas Informáticos</asignatura>
+                    <profesor>Jose Leon</profesor>
+                </sesion>
+            </sesiones>
+        </dia>
+        <dia nombre="Miercoles">
+            <sesiones>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>08:30</hora>
+                    <asignatura>Entorno de Desarrollo</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>09:30</hora>
+                    <asignatura>Entorno de Desarrolo</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>10:30</hora>
+                    <asignatura>Lenguaje de Marcas</asignatura>
+                    <profesor>Miguel Morales</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>12:00</hora>
+                    <asignatura>Lenguaje de Marcas</asignatura>
+                    <profesor>Miguel Morales</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>13:00</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>14:00</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+            </sesiones>
+        </dia>
+        <dia nombre="Jueves">
+            <sesiones>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>08:30</hora>
+                    <asignatura>Itinerario Personal 1</asignatura>
+                    <profesor>María</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>09:30</hora>
+                    <asignatura>Itinerario Personal 1</asignatura>
+                    <profesor>María</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>10:30</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>12:00</hora>
+                    <asignatura>Programación</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>13:00</hora>
+                    <asignatura>Sostenibilidad</asignatura>
+                    <profesor>Alejandro Torres</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>14:00</hora>
+                    <asignatura>Lenguaje de Marcas</asignatura>
+                    <profesor>Miguel Morales</profesor>
+                </sesion>
+            </sesiones>
+        </dia>
+        <dia nombre="Viernes">
+            <sesiones>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>08:30</hora>
+                    <asignatura>Itinerario Personal 1</asignatura>
+                    <profesor>María</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>09:30</hora>
+                    <asignatura>Sistemas Informáticos</asignatura>
+                    <profesor>Jose Leon</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>10:30</hora>
+                    <asignatura>Base de Datos</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>12:00</hora>
+                    <asignatura>Base de Datos</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>13:00</hora>
+                    <asignatura>Entorno de Desarrollo</asignatura>
+                    <profesor>Teo Rojas</profesor>
+                </sesion>
+                <sesion>
+                    <aula>1ºDAM</aula>
+                    <hora>14:00</hora>
+                    <asignatura>Digitalización</asignatura>
+                    <profesor>Miguel Morales</profesor>
+                </sesion>
+            </sesiones>
+        </dia>
+    </horario>
+</clase>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="coleccion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="peliculas">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="pelicula" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="titulo" type="xs:string"/>
+                                        <xs:element name="director" type="xs:string"/>
+                                        <xs:element name="estreno" type="xs:int"/>
+                                        <xs:element name="Comedia" type="xs:string"/>
+                                        <xs:element name="duracion" type="xs:int"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</schema>

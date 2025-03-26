@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#wrapped {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 30% 70%;
+    grid-template-areas: "parteArriba"
+                         "parteAbajo";
+}
+
+#parteArriba {
+    grid-area: parteArriba;
+    background-color: darkolivegreen;
+    display: flex;
+    align-items: center;
+}
+#imagen-cabecera {
+    padding-left: 200px;
+    width: 200px;
+    height: 200px;
+}
+#title {
+    padding-left: 300px;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+#parrafo {
+    padding-left: 350px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#parteAbajo {
+    grid-area: parteAbajo;
+    background-color: rgba(239, 140, 63, 0.92);
+    display: flex;
+}
+#parteAbajo-izquierda {
+    padding-top: 5%;
+}
+#imagen-contenido {
+    width: 600px;
+    padding-left: 10%;
+}
+#text-content {
+    padding-left: 10%;
+    font-size: 25px;
+}
+#parrafo-content {
+    padding-left: 10%;
+    font-size: 18px;
+}
+#parteAbajo-derecha {
+    padding-left: 500px;
+    padding-top: 5%;
+    width: 500px;
+}
+#cabecera-form {
+    background-color: darkolivegreen;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+#title2 {
+    font-size: 24px;
+}
+#parrafo2 {
+    font-size: 17px;
+}
+#contenido-form {
+    background-color: lightslategray;
+    padding-bottom: 2.9%;
+}
+form {
+    padding-left: 5%;
+}
+.label1 {
+    font-size: 20px;
+}
+.input1 {
+    width: 400px;
+    height: 30px;
+}
+#enviar {
+    height: 30px;
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+  <head>
+      <meta charset="UTF-8">
+      <title>Ejercicio4</title>
+  </head>
+  <body>
+  <style>
+    #principal {
+      border: 5px blue solid;
+      padding: 10px;
+      width: 75%;
+      height: 75%;
+    }
+    .secundario {
+      border: 2px gray solid;
+      padding-inline: 10px;
+      padding: 10px;
+    }
+    .tercero {
+      color: blue ;
+    }
+  </style>
+    <div id="principal">
+      <h1>Reservation Request</h1>
+      <fieldset class="secundario">
+        <legend class="tercero">General Information</legend>
+        <form action="" method="post">
+          <label for="date">Arrival date:</label>
+          <input type="text" id="date" name="date" style="margin-left: 25px">
+          <label for="date" style="color: red; margin-left: 10px"> Arrival date is invalid.</label><br>
+          <label for="night">Nigths:</label>
+          <input type="text" id="night" name="night" style="margin-left:68px">
+          <label for="night" style="color: red; margin-left: 10px">Nights must be a number.</label><br>
+          <label for="adult">Adults:</label>
+          <select name="adult" id="adult" style="margin-left: 68px">
+            <option name="1">1</option>
+            <option name="2">2</option>
+            <option name="3">3</option>
+            <option name="4">4</option>
+          </select><br>
+          <label for="children">Children:</label>
+          <select name="children" id="children" style="margin-left: 51px">
+            <option name="0">0</option>
+            <option name="1">1</option>
+            <option name="2">2</option>
+            <option name="3">3</option>
+            <option name="4">4</option>
+          </select>
+        </form>
+      </fieldset>
+
+      <fieldset class="secundario">
+        <legend class="tercero">Preferences</legend>
+        <form action="" method="post">
+          <label for="Room">Room type:</label>
+          <input type="radio" id="Room" name="option" style="margin-left: 39px">
+          <label for="Room">Standard</label>
+          <input type="radio" id="Business" name="option" >
+          <label for="Room">Business</label>
+          <input type="radio" id="Suite" name="option">
+          <label for="Room">Suite</label><br>
+
+          <label for="bed">Bed type:</label>
+          <input type="radio" id="bed" name="bed-option" style="margin-left: 54px">
+          <label for="bed">King</label>
+          <input type="radio" id="Double" name="bed-option">
+          <label for="bed">Double Double</label><br>
+
+          <input type="checkbox" name="smoking" id="smoking" style="margin-left: 12px">
+          <label for="smoking">Smoking</label>
+        </form>
+      </fieldset>
+
+      <fieldset class="secundario">
+        <legend class="tercero">Contact information</legend>
+        <form method="post">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" style="margin-left: 73px">
+          <label for="name" style="color: red; margin-left: 10px">Name is requiered.</label><br>
+          <label for="email">Email:</label>
+          <input type="email" name="email" id="email" style="margin-left: 74px">
+          <label for="name" style="color: red; margin-left: 10px">Email address is invalid.</label><br>
+          <label for="name">Phone:</label>
+          <input type="tel" id="numbee" name="namber" style="margin-left: 70px">
+          <label for="name" style="color: red; margin-left: 10px">Phone number is invalid.</label><br>
+        </form>
+      </fieldset>
+      <form action="" method="post">
+        <input type="submit" value="Submit Reservation" style="margin-left: 15px; width: 200px">
+        <input type="submit" value="Clear" style="margin-left: 20px; width: 200px">
+      </form>
+    </div>
+  </body>
+</html>

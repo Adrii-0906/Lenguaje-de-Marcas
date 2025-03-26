@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cluster>
+    <nodos>
+        <nodo>
+            <nombre>Real Madrid</nombre>
+            <ip>192.168.1.1</ip>
+            <maquinas_virtuales>
+                <maquina_virtual>
+                    <nombre>Mbappe</nombre>
+                    <sistema_operativo>Windows 10</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.1.100</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Vinicius</nombre>
+                    <sistema_operativo>Windows 7</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.1.101</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Rodrygo</nombre>
+                    <sistema_operativo>Windows 11</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.1.102</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+            </maquinas_virtuales>
+        </nodo>
+        <nodo>
+            <nombre>City</nombre>
+            <ip>192.168.2.1</ip>
+            <maquinas_virtuales>
+                <maquina_virtual>
+                    <nombre>Halaand</nombre>
+                    <sistema_operativo>Ubuntu 20.04</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.2.50</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Rodri</nombre>
+                    <sistema_operativo>Ubuntu 22.04</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.2.51</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Akanji</nombre>
+                    <sistema_operativo>Ubuntu 23.04</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.2.52</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+            </maquinas_virtuales>
+        </nodo>
+        <nodo>
+            <nombre>Betis</nombre>
+            <ip>192.168.7.1</ip>
+            <maquinas_virtuales>
+                <maquina_virtual>
+                    <nombre>Abde</nombre>
+                    <sistema_operativo>Debian 12</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.7.10</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Lo Celso</nombre>
+                    <sistema_operativo>Debian 11</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.7.11</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Bartra</nombre>
+                    <sistema_operativo>Debian 10</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.7.12</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+            </maquinas_virtuales>
+        </nodo>
+        <nodo>
+            <nombre>Sevilla</nombre>
+            <ip>192.168.9.</ip>
+            <maquinas_virtuales>
+                <maquina_virtual>
+                    <nombre>Nylan</nombre>
+                    <sistema_operativo>Windows 10</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.9.100</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Bade</nombre>
+                    <sistema_operativo>Ubuntu 24.04</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.9.101</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Suso</nombre>
+                    <sistema_operativo>Debian 12</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.9.102</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+            </maquinas_virtuales>
+        </nodo>
+        <nodo>
+            <nombre>Barcelona</nombre>
+            <ip>192.168.10.1</ip>
+            <maquinas_virtuales>
+                <maquina_virtual>
+                    <nombre>Pedri</nombre>
+                    <sistema_operativo>Windows 11</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.10.10</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Lamine</nombre>
+                    <sistema_operativo>Windows 10</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.10.11</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+                <maquina_virtual>
+                    <nombre>Gavi</nombre>
+                    <sistema_operativo>Windows 7</sistema_operativo>
+                    <interfaces>
+                        <interfaz>
+                            <ip>192.168.10.12</ip>
+                            <mac>B3-83-4F-1A-8C-BB</mac>
+                        </interfaz>
+                    </interfaces>
+                </maquina_virtual>
+            </maquinas_virtuales>
+        </nodo>
+    </nodos>
+</cluster>

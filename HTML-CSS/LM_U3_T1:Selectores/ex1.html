@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Selectores</title>
+        <link rel="stylesheet" href="ex1.css">
+    </head>
+    <body id="wrapper">
+        <h1>Ejercicio práctico con Tablas</h1>
+        <table border="1">
+            <tr>
+                <td></td>
+                <td colspan="3"><img src="src/mp3.png" alt=""></td>
+                <td colspan="2"><img src="src/mp3-1.webp" alt=""></td>
+            </tr>
+            <tr id="fila2">
+                <td class="primero">Capacidad</td>
+                <td>2GB</td>
+                <td>4GB</td>
+                <td>8GB</td>
+                <td>32GB</td>
+                <td>2GB</td>
+            </tr>
+            <tr id="fila3">
+                <td class="primero">Colores</td>
+                <td>Blanco</td>
+                <td>
+                    <ul>
+                        <li>Negro</li>
+                        <li>Rosa</li>
+                        <li>Dorado</li>
+                    </ul>
+                </td>
+                <td>Negro</td>
+                <td colspan="2">
+                    <ul>
+                        <li>Negro</li>
+                        <li>Blanco</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td class="primero">Pantalla</td>
+                <td colspan="3">3 pulgadas</td>
+                <td colspan="2">7 pulgadas</td>
+            </tr>
+            <tr>
+                <td rowspan="2" class="primero">Tiempo<br> de Carga</td>
+                <td colspan="3" rowspan="2">1 hora</td>
+                <td colspan="2" id="tercero">5 horas</td>
+            </tr>
+            <tr>
+                <td colspan="2">30 minutos para 75%</td>
+            </tr>
+        </table>
+    </body>
+</html>

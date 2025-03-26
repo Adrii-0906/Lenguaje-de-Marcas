@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion_peliculas>
+    <pelicula>
+        <titulo>El Padrino</titulo>
+        <director>Francis Ford Coppola</director>
+        <anio_estreno>1972</anio_estreno>
+        <genero>Drama</genero>
+        <duracion>175</duracion> <!-- duración en minutos -->
+    </pelicula>
+    <pelicula>
+        <titulo>Inception</titulo>
+        <director>Christopher Nolan</director>
+        <anio_estreno>2010</anio_estreno>
+        <genero>Ciencia Ficción</genero>
+        <duracion>148</duracion>
+    </pelicula>
+    <pelicula>
+        <titulo>La La Land</titulo>
+        <director>Damien Chazelle</director>
+        <anio_estreno>2016</anio_estreno>
+        <genero>Musical</genero>
+        <duracion>128</duracion>
+    </pelicula>
+    <pelicula>
+        <titulo>Matrix</titulo>
+        <director>Lana y Lilly Wachowski</director>
+        <anio_estreno>1999</anio_estreno>
+        <genero>Acción</genero>
+        <duracion>136</duracion>
+    </pelicula>
+    <pelicula>
+        <titulo>Titanic</titulo>
+        <director>James Cameron</director>
+        <anio_estreno>1997</anio_estreno>
+        <genero>Romance</genero>
+        <duracion>195</duracion>
+    </pelicula>
+</coleccion_peliculas>
