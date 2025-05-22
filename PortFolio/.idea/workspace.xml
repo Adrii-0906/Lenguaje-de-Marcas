@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="934a6bb0-5ebe-4747-a3b9-47b914f225ab" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/bootstrap-5.3.3/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2uD4Rm15JCPu1RxJ5JCPqNF2FbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/adrian/Documentos/1DAM/PortFolio",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Adrii-0906.github.io/src" />
+      <recent name="$PROJECT_DIR$/Adrii-0906.github.io" />
+      <recent name="$PROJECT_DIR$/Adrii-0906.github.io/src/TechnologiesIcons" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Adrii-0906.github.io/css" />
+      <recent name="$PROJECT_DIR$/Adrii-0906.github.io" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="934a6bb0-5ebe-4747-a3b9-47b914f225ab" name="Changes" comment="" />
+      <created>1741769805027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741769805027</updated>
+      <workItem from="1741769807032" duration="15257000" />
+      <workItem from="1741802971416" duration="5411000" />
+      <workItem from="1741860623175" duration="1128000" />
+      <workItem from="1741866199797" duration="905000" />
+      <workItem from="1741871671769" duration="2001000" />
+      <workItem from="1741877205574" duration="9275000" />
+      <workItem from="1743612301881" duration="7565000" />
+      <workItem from="1744111193061" duration="579000" />
+      <workItem from="1744130337828" duration="6118000" />
+      <workItem from="1744187836258" duration="2704000" />
+      <workItem from="1744219347940" duration="14000" />
+      <workItem from="1744219397929" duration="9700000" />
+      <workItem from="1744231705298" duration="89000" />
+      <workItem from="1744231801185" duration="5406000" />
+      <workItem from="1744294399518" duration="20637000" />
+      <workItem from="1744324477899" duration="876000" />
+      <workItem from="1744325433635" duration="65000" />
+      <workItem from="1746607914764" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
